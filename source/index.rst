@@ -12,6 +12,6 @@ Contents:
    :maxdepth: 2
    
    public_policy/public_policy.rst
-   transportaion/transportation.rst
+   transportation/transportation.rst
    weather/weather.rst
    churches/churches.rst
