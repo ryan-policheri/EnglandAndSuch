@@ -10,3 +10,8 @@ Contents:
 
 .. toctree::
    :maxdepth: 2
+   
+   public_policy/public_policy.rst
+   transportaion/transportation.rst
+   weather/weather.rst
+   churches/churches.rst
