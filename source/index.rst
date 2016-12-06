@@ -15,3 +15,7 @@ Contents:
    transportation/transportation.rst
    weather/weather.rst
    churches/churches.rst
+   home/home.rst
+   parliament/parliament.rst
+   royalFamily/royalFamily.rst
+   sports/sports.rst
