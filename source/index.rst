@@ -15,3 +15,7 @@ Contents:
    transportation/transportation.rst
    weather/weather.rst
    churches/churches.rst
+   food/food.rst
+   theatre/theatre.rst
+   touristSites/touristSites.rst
+   towerOfLondon/towerOfLondon.rst
