@@ -19,3 +19,7 @@ Contents:
    theatre/theatre.rst
    touristSites/touristSites.rst
    towerOfLondon/towerOfLondon.rst
+   home/home.rst
+   parliament/parliament.rst
+   royalFamily/royalFamily.rst
+   sports/sports.rst
