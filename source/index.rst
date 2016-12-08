@@ -11,6 +11,7 @@ Contents:
 .. toctree::
    :maxdepth: 2
    
+   home/home.rst
    public_policy/public_policy.rst
    transportation/transportation.rst
    weather/weather.rst
@@ -19,7 +20,6 @@ Contents:
    theatre/theatre.rst
    touristSites/touristSites.rst
    towerOfLondon/towerOfLondon.rst
-   home/home.rst
    parliament/parliament.rst
    royalFamily/royalFamily.rst
    sports/sports.rst
