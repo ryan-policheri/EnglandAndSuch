@@ -4,7 +4,7 @@ Sports
 
 Football
 --------
-England's major football league is the *Premier League*.  This league is the home for all of the professional football clubs that are based in popular English cities.  Here is a list of the more famous teams that compete in the Premier League:
+Football is probably the most popular sport in England.  It is played at all different ages and different levels of competiton, from kids in the street to professionals in enormous stadiums. England's major professional football league is the Premier League.  This league is the home for all of the professional football clubs that are based in popular English cities.  Here is a list of the more famous teams that compete in the Premier League:
 
 * Arsenal F.C.
 * Manchester United F.C.
@@ -13,7 +13,7 @@ England's major football league is the *Premier League*.  This league is the hom
 * Manchester City F.C.
 * Leicester City F.C.
 
-England also has a very famous National Football Team that won, and hosted, the FIFA World Cup at Wembley Stadium back in 1966.
+England has a very famous men's National Football Team that won, and hosted, the FIFA World Cup at Wembley Stadium back in 1966.  England also has women's National Football Team that has yet to win a World Cup, but has come close twice as runner-up in 1984 and 2009.
 
 
 Tennis
