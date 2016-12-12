@@ -19,4 +19,4 @@ both physically but also emotionally. Studies show that we communicate longer an
 
 
 
-Check out the weather .. _here! https://weather.com/weather/tenday/l/UKXX0085:1:UK
+Check out the weather `here! <https://weather.com/weather/tenday/l/UKXX0085:1:UK?>`_
